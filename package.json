@@ -28,17 +28,13 @@
     "dist"
   ],
   "keywords": [
-    "example",
-    "typescript",
-    "npm",
-    "package",
-    "sample",
-    "boilerplate",
-    "starter",
-    "demo",
-    "cjs",
-    "esm",
-    "umd"
+    "mental",
+    "specification",
+    "backend",
+    "api",
+    "cache",
+    "auth",
+    "json"
   ],
   "author": "Rajiv Seelam <rajiv@betalectic.com>",
   "license": "MIT",
